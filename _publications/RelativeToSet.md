@@ -1,0 +1,20 @@
+---
+title: "Coordinate Descent Without Coordinates: Tangent Subspace Descent on Riemannian Manifolds"
+collection: publications
+permalink: /publication/RelativeToSet
+date: 2022-4-14
+venue: Mathematics of Operations Research
+paperurl: '[https://doi.org/10.1287/moor.2022.1253]'
+
+---
+
+The condition number of a differentiable convex function, namely the ratio of its smoothness to strong convexity constants, is closely tied 
+to fundamental properties of the function. In particular, the condition number of a quadratic convex function is the square of the 
+aspect ratio of a canonical ellipsoid associated to the function. Furthermore, the condition number of a function 
+bounds the linear rate of convergence of the gradient descent algorithm for unconstrained convex minimization. We propose a condition number 
+of a differentiable convex function relative to a reference convex set and distance function pair. This relative condition number is defined as 
+the ratio of relative smoothness to relative strong convexity constants. We show that the relative condition number extends the main properties of the 
+traditional condition number both in terms of its geometric insight and in terms of its role in characterizing the linear convergence of 
+first-order methods for constrained convex minimization. When the reference set $X$ is a convex cone or a polyhedron and the function $f$ is of the form 
+$f=g\circ A$, we provide characterizations of and bounds on the condition number of $f$ relative to $X$ in terms of the usual condition number of $g$ and 
+a suitable condition number of the pair $(A, X)$.
