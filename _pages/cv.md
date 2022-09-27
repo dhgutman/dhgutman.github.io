@@ -17,15 +17,12 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2019 - Present: Assistant Professor (Tenure-Track)
+  * Texas Tech University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2019 - August 2019: Research Intern
+  * Bosch Center for Artificial Intelligence
+  * Research conducted in adversarial training of machine learning models
   
 Skills
 ======
