@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently at an assistant professor at the Department of Industrial, Manufacturing, and Systems Engineering (IMSE) at Texas Tech University. My expertise is continuous optimization theory with an emphasis on methods for large-scale optimization and optimization over manifolds.
+I am an assistant professor in the Department of Industrial, Manufacturing, and Systems Engineering (IMSE) at Texas Tech University. My expertise is continuous optimization theory with an emphasis on methods for large-scale optimization and optimization over manifolds.
 
 News
 ======
