@@ -1,7 +1,7 @@
 ---
 title: "Cyclic coordinate descent in the Hölder smooth setting"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/HolderCyclic
 date: 2022-9-01
 venue: Operations Research Letters
 paperurl: '[https://www.sciencedirect.com/science/article/pii/S0167637722000712]'
