@@ -36,4 +36,4 @@ Work experience
 Service and leadership
 ======
 * TTU IMSE Mathematical Reading & Writing Bootcamp for Ph.D.'s (Summer 2021 & 2022)
-* Referee for SIAM Journal on Optimization, Journal on Optimization Theory & Applications, Optimization Letters, Statistics & Probability Letters, ESAIM: Journal on Control, Optimization, and the Calculus of Variations
+* Referee for *SIAM Journal on Optimization, Journal on Optimization Theory & Applications, Optimization Letters, Statistics & Probability Letters, ESAIM: Journal on Control, Optimization, and the Calculus of Variations
