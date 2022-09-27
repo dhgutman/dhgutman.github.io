@@ -1,7 +1,7 @@
 ---
 title: "The Inexact Cyclic Block Proximal Gradient Method and Properties of Inexact Proximal Maps"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/inexactCyclicBlock
 date: 2022-1-03
 venue: Major Revision at Journal on Optimization Theory and Applications
 paperurl: '[https://arxiv.org/abs/2201.00896]'
