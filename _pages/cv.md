@@ -23,34 +23,17 @@ Work experience
 * May 2019 - August 2019: Research Intern
   * Bosch Center for Artificial Intelligence
   * Research conducted in adversarial training of machine learning models
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* May 2013 - August 2014: Senior Consultant
+  * IBM Global Business Services
+
+* November 2010 - May 2013: Senior, Staff II
+  * Kearney & Co.  
+
+* May 2009 - August 2009, May 2010 - August 2010: Research Intern
+  * Naval Surface Warfare Center, Dahlgren   
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* TTU IMSE Mathematical Reading & Writing Bootcamp for Ph.D.'s (Summer 2021 & 2022)
+* Referee for SIAM Journal on Optimization, Journal on Optimization Theory & Applications, Optimization Letters, Statistics & Probability Letters, ESAIM: Journal on Control, Optimization, and the Calculus of Variations
