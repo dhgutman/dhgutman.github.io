@@ -3,7 +3,7 @@ title: "The Inexact Cyclic Block Proximal Gradient Method and Properties of Inex
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2009-10-01
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://arxiv.org/abs/2201.00896'
 
 ---
 
