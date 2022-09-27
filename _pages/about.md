@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "David Huckleberry Gutman"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am currently at an assistant professor at the Department of Industrial, Manufacturing, and Systems Engineering (IMSE) at Texas Tech University. My expertise is continuous optimization theory with an emphasis on methods for large-scale optimization and optimization over manifolds.
 
 A data-driven personal website
