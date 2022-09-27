@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Mathematical Sciences, Carnegie Mellon University, 2019
+* M.S. in Mathematics, Tulane University, 2010
+* B.S.B.A in Finance & Accounting, GitHub University, 2008
 
 Work experience
 ======
