@@ -2,7 +2,7 @@
 title: "Convergence Rates of Proximal Gradient Methods via the Convex Conjugate"
 collection: publications
 permalink: /publication/ConjugateProximal
-date: 2022-3-22
+date: 2019
 venue: SIAM Journal on Optimization
 paperurl: '[https://epubs.siam.org/doi/abs/10.1137/18M1164329]'
 
