@@ -14,3 +14,8 @@ News
 ======
 
 2022/9/1 - Nam Ho-Nguyen (University of Sydney, Discipline of Business Analytics) and I won the 2022 INFORMS Optimization Society Young Researcher Prize for our paper "Coordinate Descent Without Coordinates: Tangent Subspace Descent on Riemannian Manifolds"
+
+Ph.D. Positions and Potential Applicants
+======
+
+I do not have any available spots in my research group at this time.
