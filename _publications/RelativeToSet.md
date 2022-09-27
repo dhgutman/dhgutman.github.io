@@ -1,10 +1,10 @@
 ---
-title: "Coordinate Descent Without Coordinates: Tangent Subspace Descent on Riemannian Manifolds"
+title: "The condition number of a function relative to a set"
 collection: publications
 permalink: /publication/RelativeToSet
-date: 2022-4-14
-venue: Mathematics of Operations Research
-paperurl: '[https://doi.org/10.1287/moor.2022.1253]'
+date: 2020-5-20
+venue: Mathematical Programming, Series A
+paperurl: '[https://link.springer.com/article/10.1007/s10107-020-01510-4]'
 
 ---
 
