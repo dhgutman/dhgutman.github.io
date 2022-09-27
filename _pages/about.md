@@ -13,7 +13,7 @@ I am currently at an assistant professor at the Department of Industrial, Manufa
 News
 ======
 
-###22/9/01 - 2022 INFORMS Young Researchers Prize
+###22/9/01 - 2022 INFORMS Young Researchers Prize###
 
 Nam Ho-Nguyen (University of Sydney, Discipline of Business Analytics) and I won the 2022 INFORMS Optimization Society Young Researcher Prize for our *Mathematics of Operations Research* paper "Coordinate Descent Without Coordinates: Tangent Subspace Descent on Riemannian Manifolds" 
 
