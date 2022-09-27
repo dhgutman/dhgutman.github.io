@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Mathematical Sciences, Carnegie Mellon University, 2019
 * M.S. in Mathematics, Tulane University, 2010
-* B.S.B.A in Finance & Accounting, GitHub University, 2008
+* B.S.B.A in Finance & Accounting, Georgetown University, 2008
 
 Work experience
 ======
