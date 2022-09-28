@@ -13,4 +13,4 @@ This paper expands the Cyclic Block Proximal Gradient method for block separable
 
 ArXiV Version: [https://arxiv.org/abs/2201.00896]
 
-Recommended citation: Maia, L., Gutman, D. H., & Hughes, R. C. (2022). The Inexact Cyclic Block Proximal Gradient Method and Properties of Inexact Proximal Maps. arXiv preprint arXiv:2201.00896.
+Recommended citation: Maia, L., Gutman, D. H., & Hughes, R. C. (2022). The Inexact Cyclic Block Proximal Gradient Method and Properties of Inexact Proximal Maps. *arXiv preprint* arXiv:2201.00896.
