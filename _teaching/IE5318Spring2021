@@ -1,0 +1,18 @@
+---
+title: "IE5318 - PhD Optimization II"
+collection: teaching
+type: "Graduate course"
+permalink: /teaching/IE5318Spring2021
+venue: "Texas Tech University, IMSE"
+date: 2021-01-01
+location: "Lubbock, TX, USA"
+---
+
+Nonlinear programming has become a fundamental toolset in modern operations research and
+data science. With exceedingly few exceptions, the training of any statistical/machine learning
+model requires solving a large-scale, highly nonlinear (and often non-convex) optimization
+problem. This course provides an introduction to the theory of nonlinear optimization. We will
+cover the common analytical tools for nonlinear programming, local duality theory and KKT
+multipliers for general nonlinear programs, global duality for convex programs, efficiency of
+convex programs, and iconic algorithms for solving these problems. Time permitting, we will
+cover basic integer programming theory.
