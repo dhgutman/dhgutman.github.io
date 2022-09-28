@@ -8,6 +8,6 @@ venue: Operations Research Letters
 paperurl: '[https://www.sciencedirect.com/science/article/pii/S0167637722000712]'
 ---
 
-We provide a convergence analysis of cyclic block coordinate descent under Hölder smoothness assumptions. We consider both convex and non-convex objectives, obtaining a convergence rate of $\mathcal{O}\left(p/k^\gamma\right)$ to the optimal value for convex objectives and a rate of $\mathcal{O}\left(p^{\frac{1}{1+\gamma}}/k^{\frac{\gamma}{1+\gamma}}\right)$ to a stationary point for non-convex objectives, where $\gamma$ is the Hölder exponent. These rates recover those obtained in existing literature for full gradient descent and/or when the objective is simply Lipschitz smooth.
+We provide a convergence analysis of cyclic block coordinate descent under Hölder smoothness assumptions. We consider both convex and non-convex objectives, obtaining a convergence rate of $\mathcal{O}\left(p/k^\gamma\right)$ to the optimal value for convex objectives and a rate of $\mathcal{O}\left(p^{\frac{1}{1+\gamma}}/k^{\frac{\gamma}{1+\gamma}}\right)$ to a stationary point for non-convex objectives, where $\gamma$ is the Hölder exponent. These rates recover those obtained in existing literature for full gradient descent and/or when the objective is simply Lipschitz smooth.AAAA
 
 Recommended citation: Gutman, D. H., & Ho-Nguyen, N. (2022). Cyclic coordinate descent in the Hölder smooth setting. *Operations Research Letters*, 50(5), 458-462.
