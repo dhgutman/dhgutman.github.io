@@ -2,7 +2,7 @@
 title: "The Condition of a Function Relative to a Polyhedron"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/ConditionPolyhedron
 venue: "Multiple Venues"
 date: 2018-10-17
 location: "Multiple Dates"
