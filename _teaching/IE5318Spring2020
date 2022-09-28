@@ -1,0 +1,12 @@
+---
+title: "IE5331 - Large-Scale Optimization for Data Science"
+collection: teaching
+type: "Graduate course"
+permalink: /teaching/IE5318Spring2021
+venue: "Texas Tech University, IMSE"
+date: 2020-01-01
+location: "Lubbock, TX, USA"
+---
+
+This course covers the fundamentals of first- and second-order optimization methods used in modern machine learning and statistics. Topics include: gradient and subgradient descent, the proximal gradient method, mirror descent, the Frank-Wolfe method, stochastic gradient descent, variance reduction, and quasi-newton methods.
+
