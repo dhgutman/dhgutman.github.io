@@ -37,7 +37,7 @@ Awards
 ======
 
 * 2022 INFORMS Optimization Young Researcher Prize
-  * Join with Nam Ho-Nguyen for the paper, "Coordinate Descent Without Coordinates: Tangent Subspace Descent on Riemannian Manifolds"
+  * Joint with Nam Ho-Nguyen for the paper, "Coordinate Descent Without Coordinates: Tangent Subspace Descent on Riemannian Manifolds"
 
 Service and leadership
 ======
