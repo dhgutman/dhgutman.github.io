@@ -2,7 +2,7 @@
 title: "Coordinate Descent Without Coordinates"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/TSD
 venue: "Multiple Venues"
 date: 2022-10-17
 location: "Multiple Locations"
