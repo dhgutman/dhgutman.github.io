@@ -12,6 +12,6 @@ We extend coordinate descent to manifold domains and provide convergence analyse
 
 **2022 INFORMS Optimization Society Young Researcher Prize Winner**
 
-With Nam Ho-Nguyen (University of Sydney, Discipline of Business Analytics)
+Recommended citation: Gutman, D. H., & Ho-Nguyen, N. (2022). Coordinate Descent Without Coordinates: Tangent Subspace Descent on Riemannian Manifolds. *Mathematics of Operations Research.*
 
 
