@@ -2,7 +2,7 @@
 title: "Convergences Rates of Proximal Gradient Methods via the Convex Conjugate"
 collection: talks
 type: "Talk"
-permalink: /talks/ConvergenceConjugate
+permalink: /talks/ConvergenceConjugate.md
 venue: "Multiple Venues"
 date: 2018-08-15
 location: "Multiple Dates"
