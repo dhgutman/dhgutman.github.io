@@ -1,5 +1,5 @@
 ---
-title: "The Condition of a Function Relative to a Polyhedron"
+title: "The Condition of a Function Relative to a Polytope"
 collection: talks
 type: "Talk"
 permalink: /talks/2012-03-01-talk-1
