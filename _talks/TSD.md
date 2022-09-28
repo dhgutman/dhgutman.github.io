@@ -3,9 +3,9 @@ title: "Coordinate Descent Without Coordinates"
 collection: talks
 type: "Talk"
 permalink: /talks/2012-03-01-talk-1
-venue: " "
+venue: "Multiple Venues"
 date: 2022-10-17
-location: "Multiple"
+location: "Multiple Locations"
 ---
 Locations:
 * INFORMS Annual Meeting 2022, Indianapolis, IN
