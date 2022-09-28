@@ -5,7 +5,7 @@ permalink: /publication/inexactCyclicBlock
 excerpt: 'with Leandro Maia (Texas Tech University IMSE) and Ryan Hughes (Addx Corporation)'
 date: 2022-1-03
 venue: Major Revision at Journal on Optimization Theory and Applications
-paperurl: '[https://arxiv.org/abs/2201.00896]'
+paperurl: 'https://arxiv.org/abs/2201.00896'
 
 ---
 
