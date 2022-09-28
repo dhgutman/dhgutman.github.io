@@ -32,7 +32,13 @@ Work experience
 
 * May 2009 - August 2009, May 2010 - August 2010: Research Intern
   * Naval Surface Warfare Center, Dahlgren   
-  
+
+Awards
+======
+
+* 2022 INFORMS Optimization Young Researcher Prize
+  * Join with Nam Ho-Nguyen for the paper, "Coordinate Descent Without Coordinates: Tangent Subspace Descent on Riemannian Manifolds"
+
 Service and leadership
 ======
 * TTU IMSE Mathematical Reading & Writing Bootcamp for Ph.D.'s (Summer 2021 & 2022)
