@@ -2,6 +2,7 @@
 title: "Perturbed Fenchel duality and first-order methods"
 collection: publications
 permalink: /publication/RelativeToSet
+excerpt: '*with Javier Peña (Carnegie Mellon University, Operations Research*'
 date: 2022-3-22
 venue: Mathematical Programming, Series A
 paperurl: '[https://link.springer.com/article/10.1007/s10107-022-01779-7]'
