@@ -2,7 +2,7 @@
 title: "Cyclic coordinate descent in the Hölder smooth setting"
 collection: publications
 permalink: /publication/HolderCyclic
-excerpt: '*With Nam Ho-Nguyen (University of Sydney, Discipline of Business Analytics)*'
+excerpt: 'With Nam Ho-Nguyen (University of Sydney, Discipline of Business Analytics)'
 date: 2022-9-01
 venue: Operations Research Letters
 paperurl: '[https://www.sciencedirect.com/science/article/pii/S0167637722000712]'
