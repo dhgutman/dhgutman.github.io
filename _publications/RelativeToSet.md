@@ -19,3 +19,5 @@ traditional condition number both in terms of its geometric insight and in terms
 first-order methods for constrained convex minimization. When the reference set $X$ is a convex cone or a polyhedron and the function $f$ is of the form 
 $f=g\circ A$, we provide characterizations of and bounds on the condition number of $f$ relative to $X$ in terms of the usual condition number of $g$ and 
 a suitable condition number of the pair $(A, X)$.
+
+Recommended citation: Gutman, D. H., & Pena, J. F. (2021). The condition number of a function relative to a set. *Mathematical Programming*, 188(1), 255-294.
