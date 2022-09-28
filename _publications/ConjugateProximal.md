@@ -2,6 +2,7 @@
 title: "Convergence Rates of Proximal Gradient Methods via the Convex Conjugate"
 collection: publications
 permalink: /publication/ConjugateProximal
+excerpt: 'with Javier Peña (Carnegie Mellon University, Tepper School of Business)'
 date: 2019-1-17
 venue: SIAM Journal on Optimization
 paperurl: '[https://epubs.siam.org/doi/abs/10.1137/18M1164329]'
