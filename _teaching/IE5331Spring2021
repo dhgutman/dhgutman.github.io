@@ -1,0 +1,11 @@
+---
+title: "IE5331 - PhD Optimization II"
+collection: teaching
+type: "Graduate course"
+permalink: /teaching/IE5318Spring2021
+venue: "Texas Tech University, IMSE"
+date: 2021-01-01
+location: "Lubbock, TX, USA"
+---
+
+This is the second in a complete two-course introduction to theory of linear, nonlinear, and combinatorial optimization. We plan to cover all of linear optimization and some of the rudiments of nonlinear optimization in this course. We will emphasize the theory and analysis of optimization problems with a view toward understanding the complexity of key algorithms and problems.
