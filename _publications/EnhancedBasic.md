@@ -2,6 +2,7 @@
 title: "Enhanced basic procedures for the projection and rescaling algorithm"
 collection: publications
 permalink: /publication/EnhancedBasic
+excerpt:
 date: 2019-1-24
 venue: Optimization Letters
 paperurl: '[https://link.springer.com/article/10.1007/s11590-019-01390-4]'
