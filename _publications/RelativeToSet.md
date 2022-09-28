@@ -5,7 +5,7 @@ permalink: /publication/RelativeToSet
 excerpt: 'with Javier Peña (Carnegie Mellon University, Tepper School of Business)'
 date: 2020-5-20
 venue: Mathematical Programming, Series A
-paperurl: '[https://link.springer.com/article/10.1007/s10107-020-01510-4]'
+paperurl: 'https://link.springer.com/article/10.1007/s10107-020-01510-4'
 
 ---
 
