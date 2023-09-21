@@ -17,8 +17,11 @@ Education
 
 Work experience
 ======
-* August 2019 - Present: Assistant Professor (Tenure-Track)
-  * Texas Tech University
+* July 2023 - Present: Assistant Professor (Tenure-Track)
+  * Texas A&M University, Department of Industrial & Systems Engineering
+
+* August 2019 - June 2023: Assistant Professor (Tenure-Track)
+  * Texas Tech University, Department of Industrial, Manufacturing, & Systems Engineering
 
 * May 2019 - August 2019: Research Intern
   * Bosch Center for Artificial Intelligence
