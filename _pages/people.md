@@ -10,7 +10,6 @@ author_profile: true
 Ph.D. Students
 ======
 
-* Zolykha Rezaei (Started 2022)
 * Allan Gurwicz (Started 2021)
 * George Lobo (Started 2021)
 * Leandro Maia (Started 2020)
