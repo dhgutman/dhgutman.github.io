@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "David Huckleberry Gutman"
 title_separator          : "-"
 name                     : &name "David Huckleberry Gutman"
-description              : &description "Assistant Professor, Texas Tech University IMSE"
+description              : &description "Assistant Professor, Texas A&M University ISEN"
 url                      : https://dhgutman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dhgutman.github.io"
@@ -77,7 +77,7 @@ analytics:
 author:
   name             : "David Huckleberry Gutman"
   avatar           : "profile.png"
-  bio              : "Assistant Professor, Texas Tech University IMSE, Optimizer"
+  bio              : "Assistant Professor, Texas A&M University ISEN, Optimizer"
   location         : "Lubbock, TX"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=BJLqfi8AAAAJ&hl=en"
