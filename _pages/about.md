@@ -13,6 +13,10 @@ I am an assistant professor in the Department of Industrial and Systems Engineer
 News
 ======
 
+### 23/2/01 - 2023 NSF CAREER Award
+
+I have been granted an National Science Foundation (NSF) CAREER award for my proposal, "CAREER: Fast Algorithms for Riemannian Optimization", by the Algorithmic Foundations program at NSF
+
 ### 22/9/01 - 2022 INFORMS Young Researchers Prize
 
 Nam Ho-Nguyen (University of Sydney, Discipline of Business Analytics) and I won the 2022 INFORMS Optimization Society Young Researcher Prize for our *Mathematics of Operations Research* paper "Coordinate Descent Without Coordinates: Tangent Subspace Descent on Riemannian Manifolds" 
