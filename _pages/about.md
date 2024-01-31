@@ -13,9 +13,13 @@ I am an assistant professor in the Department of Industrial and Systems Engineer
 News
 ======
 
+### 23/9/01 - Move to Department of Industrial and Systems Engineering at Texas A&M University
+
+I have moved across the great state of Texas to the Department of Industrial and Systems Engineering at Texas A&M University. I am immensely grateful for my time at Texas Tech University and look forward to this new chapter.
+
 ### 23/2/01 - 2023 NSF CAREER Award
 
-I have been granted an National Science Foundation (NSF) CAREER award for my proposal, "CAREER: Fast Algorithms for Riemannian Optimization", by the Algorithmic Foundations program at NSF
+I have been granted an National Science Foundation (NSF) CAREER award for my proposal, "CAREER: Fast Algorithms for Riemannian Optimization", by the Algorithmic Foundations program at NSF.
 
 ### 22/9/01 - 2022 INFORMS Young Researchers Prize
 
