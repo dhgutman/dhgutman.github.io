@@ -9,8 +9,8 @@ author_profile: true
 .page__content h3 { font-size: 1.125em; }
 </style>
 
-Total Awarded: $1,016,031.00  
-Personal Share: $783,173.50
+Total Awarded: $ 1,016,031.00  
+Personal Share: $ 783,173.50
 
 ## Awarded
 
