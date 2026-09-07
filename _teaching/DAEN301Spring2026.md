@@ -1,5 +1,5 @@
 ---
-title: "DAEN301 - Data Engineering Coding Experience II (Spring 2025, 2026)"
+title: "DAEN301 - Data Engineering Coding Experience II (Spring 2025 & 2026)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/DAEN301Spring2026
