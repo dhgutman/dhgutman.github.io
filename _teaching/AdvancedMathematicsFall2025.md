@@ -1,5 +1,5 @@
 ---
-title: "TBD - Advanced Mathematics for Engineering Ph.D.s (Fall 2024, 2025)"
+title: "ISEN 689 - Advanced Mathematics for Engineering Ph.D.s (Fall 2024 & 2025)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/AdvancedMathematicsFall2025
@@ -8,4 +8,6 @@ date: 2025-08-25
 location: "College Station, TX, USA"
 ---
 
-TBD
+This course covers the basic theory of sets, functions, numbers, linear algebra, and real analysis
+necessary for graduate coursework in operations research. Engineering PhD students focusing in
+intensely mathematical or theoretical fields will also find this material to be integral to their work.
