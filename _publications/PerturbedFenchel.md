@@ -2,7 +2,7 @@
 title: "Perturbed Fenchel duality and first-order methods"
 collection: publications
 category: journal
-permalink: /publication/RelativeToSet
+permalink: /publication/PerturbedFenchel
 excerpt: 'with Javier Peña (Carnegie Mellon University, Tepper School of Business)'
 date: 2023-03-01
 venue: 'Mathematical Programming, Series A'
