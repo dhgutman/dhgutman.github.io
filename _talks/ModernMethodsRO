@@ -8,7 +8,7 @@ date: 2025-03-10
 location: "Houston, TX"
 ---
 Locations:
-* Rice University Mathematics Department Colloquium, Houston, TX — March 10, 2025
+* Rice University Mathematics Department Colloquium, Houston, TX
 
 Recently, Riemannian optimization (RO), the study of minimizing a cost function over a Riemannian manifold, exploded in popularity due to its many big data applications. A small sample of these popular applications includes metric learning, mixture model parameter estimation, covariance estimation and subspace recovery, and matrix completion. The typical manifold underlying an RO problem from data science can have a dimension numbered in the thousands or millions, if not higher. Algorithms that use only the objective function’s first-order differential information, called first-order methods, are particularly attractive for these problems due to their relatively low storage and iteration costs. 
 
