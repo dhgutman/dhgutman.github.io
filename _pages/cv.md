@@ -25,7 +25,7 @@ redirect_from:
 
 ## Honors & Awards
 
-* **2026–2027 — Montague-CTE Scholars Award**, Texas A&M University, Center for Teaching Excellence
+* **2026 — Montague-CTE Scholars Award**, Texas A&M University, Center for Teaching Excellence
 * **2025 — Outstanding Teaching Award**, Texas A&M University, Department of Industrial and Systems Engineering
 * **2023 — NSF CAREER Award**
 * **2022 — INFORMS Optimization Society Young Researcher Prize**, joint with Nam Ho-Nguyen
