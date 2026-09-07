@@ -8,7 +8,6 @@ date: 2024-03-29
 location: "Multiple Locations"
 ---
 Locations:
-
 * University of Houston Industrial Engineering Seminar, Houston, TX
 * Wichita State University Mathematics Colloquium, Wichita, KS
 
