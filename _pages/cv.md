@@ -25,10 +25,10 @@ redirect_from:
 
 ## Honors & Awards
 
-- **2026 — Montague-CTE Scholars Award**, Texas A&M University, Center for Teaching Excellence
-- **2025 — Outstanding Teaching Award**, Texas A&M University, Department of Industrial and Systems Engineering
-- **2023 — NSF CAREER Award**
-- **2022 — INFORMS Optimization Society Young Researcher Prize**, joint with Nam Ho-Nguyen
+* **2025 — Outstanding Teaching Award**, Texas A&M University, Department of Industrial and Systems Engineering
+* **2023 — NSF CAREER Award**
+* **2022 — INFORMS Optimization Society Young Researcher Prize**  
+  Joint with Nam Ho-Nguyen for “Coordinate Descent Without Coordinates: Tangent Subspace Descent on Riemannian Manifolds.”
 
 ## Professional Service
 
@@ -65,3 +65,4 @@ Referee for *SIAM Journal on Optimization*; *Mathematical Programming*; *SIAM Jo
   Arlington, VA.
 * **Research Intern, Naval Surface Warfare Center** — Summers 2009 & 2010  
   Dahlgren, VA.
+
