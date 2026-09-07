@@ -32,7 +32,7 @@ Congratulations to our recent Ph.D. graduates!
 
 The following are selected highlights; see the [Publications page](/publications/) for the a lengthy and complete updated list.
 
-* Mathematical Programming: Our [2026 paper on adaptive proximal ADMM](https://doi.org/10.1007/s10107-026-02366-w) develops algorithms with complexity guarantees for nonconvex optimization. Our [2023 paper on perturbed Fenchel duality](https://doi.org/10.1007/s10107-022-01779-7) provides a unified convergence analysis for several first-order methods.
+* Mathematical Programming: Our [2026 paper on adaptive proximal ADMM](https://doi.org/10.1007/s10107-026-02366-w) develops algorithms with complexity guarantees for nonconvex optimization.
 * SPE publications: Our [2025 SPE Journal paper](https://doi.org/10.2118/220737-PA) uses survival analysis to assess long-term CO₂ storage risk. Related conference papers at ATCE 2024 and [LACPEC 2026](https://doi.org/10.2118/231654-MS) explore risk assessment and optimization for geological CO₂ storage.
 
 #### Awards
