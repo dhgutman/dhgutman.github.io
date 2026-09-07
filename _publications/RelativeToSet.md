@@ -1,6 +1,7 @@
 ---
 title: "The condition number of a function relative to a set"
 collection: publications
+category: journal
 permalink: /publication/RelativeToSet
 excerpt: 'with Javier Peña (Carnegie Mellon University, Tepper School of Business)'
 date: 2020-5-20
