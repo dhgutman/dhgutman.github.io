@@ -3,17 +3,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Funding"
+    url: /funding/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Experience"
-    url: /cv/
-    
+  - title: "Talks"
+    url: /talks/
+
   - title: "People"
     url: /People/
 
   - title: "Open Ph.D. Positions"
     url: /phd-positions/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Experience"
+    url: /cv/
