@@ -44,7 +44,7 @@ The following are selected highlights; see the [Publications page](/publications
 
 I serve as co-PI with Eduardo Gildin (PI) on a $103,310 grant from the Crisman Institute for Petroleum Research supporting survival analysis for CO₂ storage risk assessment during 2025–2026.
 
-#### Positions Available
+*Positions Available*
 
 Ph.D. positions are available in optimization theory, with an emphasis on optimization over manifolds. Positions include full tuition, a stipend, and fringe benefits. Please see the [Ph.D. Positions page](/phd-positions/) for requirements and contact instructions.
 
