@@ -1,0 +1,20 @@
+name: Cancel stuck Pages deployment
+
+on: workflow_dispatch
+
+permissions:
+  pages: write
+
+jobs:
+  cancel:
+    if: github.repository == 'dhgutman/dhgutman.github.io'
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: Cancel the deployment identified in the failed runs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: >-
+          gh api --method POST
+          -H "Accept: application/vnd.github+json"
+          repos/dhgutman/dhgutman.github.io/pages/deployments/3f1c951609a996eceb4412cde8d836e3cfc8bff9/cancel
