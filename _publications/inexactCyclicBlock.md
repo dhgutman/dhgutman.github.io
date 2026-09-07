@@ -1,6 +1,7 @@
 ---
 title: "The Inexact Cyclic Block Proximal Gradient Method and Properties of Inexact Proximal Maps"
 collection: publications
+category: journal
 permalink: /publication/inexactCyclicBlock
 excerpt: 'with Leandro Maia (Texas Tech University IMSE) and Ryan Hughes (Addx Corporation)'
 date: 2022-1-03
