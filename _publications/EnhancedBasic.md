@@ -1,6 +1,7 @@
 ---
 title: "Enhanced basic procedures for the projection and rescaling algorithm"
 collection: publications
+category: journal
 permalink: /publication/EnhancedBasic
 excerpt: ' '
 date: 2019-1-24
