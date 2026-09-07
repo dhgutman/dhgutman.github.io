@@ -19,7 +19,7 @@ News
 
 A belated update: here are some highlights from the past few years.
 
-#### Graduations
+*Graduations*
 
 Congratulations to our recent Ph.D. graduates!
 
@@ -28,19 +28,19 @@ Congratulations to our recent Ph.D. graduates!
 * Leandro Maia (2025) joined Oregon State University as an Assistant Professor in the School of Mechanical, Industrial, and Manufacturing Engineering.
 * Colton Mikes (2024), coadvised with Victoria Howle, joined Booz Allen Hamilton as a Staff Scientist.
 
-#### Publications
+*Publications*
 
 The following are selected highlights; see the [Publications page](/publications/) for the a lengthy and complete updated list.
 
 * Mathematical Programming: Our [2026 paper on adaptive proximal ADMM](https://doi.org/10.1007/s10107-026-02366-w) develops algorithms with complexity guarantees for nonconvex optimization.
 * SPE publications: Our [2025 SPE Journal paper](https://doi.org/10.2118/220737-PA) uses survival analysis to assess long-term CO₂ storage risk. Related conference papers at ATCE 2024 and [LACPEC 2026](https://doi.org/10.2118/231654-MS) explore risk assessment and optimization for geological CO₂ storage.
 
-#### Awards
+*Awards*
 
 * 2026 Montague-CTE Scholars Award, Texas A&M University. This prestigious university-wide award recognizes tenure-track assistant professors for excellence in undergraduate teaching. I was one of nine faculty members selected in 2026, with each recipient receiving a $6,500 grant to support instructional innovation.
 * 2025 Outstanding Teaching Award, Texas A&M University, Department of Industrial and Systems Engineering.
 
-#### Funding
+*Funding*
 
 I serve as co-PI with Eduardo Gildin (PI) on a $103,310 grant from the Crisman Institute for Petroleum Research supporting survival analysis for CO₂ storage risk assessment during 2025–2026.
 
