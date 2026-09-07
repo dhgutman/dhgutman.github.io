@@ -1,6 +1,7 @@
 ---
 title: "Coordinate Descent Without Coordinates: Tangent Subspace Descent on Riemannian Manifolds"
 collection: publications
+category: journal
 permalink: /publication/TSD
 excerpt: '**2022 INFORMS Optimization Society Young Researcher Prize Winner** with Nam Ho-Nguyen (University of Sydney, Discipline of Business Analytics)'
 date: 2022-4-14
