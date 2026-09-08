@@ -22,6 +22,6 @@ These positions include full tuition, a stipend, and fringe benefits.
 
 ## How to Contact Me
 
-Please email me at **dhgutman@tamu.edu** with the subject line **Bunburry**.
+Please email me at **dhgutman@tamu.edu** with the subject line **Bunbury**.
 
 Your email should address each requirement above. Describe your mathematical preparation, including relevant courses and your performance in them or evidence of competition results, provide your GRE Quantitative score, and explain your research and career interests, including why you are interested in optimization over manifolds.
